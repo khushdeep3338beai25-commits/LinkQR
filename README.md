@@ -1,6 +1,12 @@
 # LinkQR — Free QR Code Generator
 
+
+
+
+
 A responsive, browser-based QR code generator. Enter a website URL, generate a QR code, and download it as a PNG for free.
+
+
 
 ## Run it
 1. Extract the ZIP.
