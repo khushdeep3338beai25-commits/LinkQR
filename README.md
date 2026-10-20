@@ -11,6 +11,8 @@ A responsive, browser-based QR code generator. Enter a website URL, generate a Q
 The QR generation library is loaded from a CDN, so an internet connection is needed when opening the page. Links are processed in your browser; there is no login or backend.
 
 ## Files
+
+
 - `index.html` — page structure
 - `style.css` — responsive styling
 - `script.js` — validation, QR generation, and PNG download
