@@ -1,17 +1,6 @@
 # 🔗 LinkQR — Free QR Code Generator
 
 LinkQR is a free, responsive, browser-based QR code generator that lets users convert website URLs into QR codes and download them as PNG images. It features a simple, user-friendly interface and works without login or a backend.
-
-## ✨ Features
-
-- 🔗 Generate QR codes from website URLs
-- 📥 Download QR codes as PNG images
-- ✅ URL validation
-- 📱 Responsive design for desktop and mobile
-- ⚡ Fast and easy to use
-- 🔒 Browser-based processing with no backend
-- 🆓 Completely free to use
-
 ## 🛠️ Technologies Used
 
 - **HTML5** — Page structure
